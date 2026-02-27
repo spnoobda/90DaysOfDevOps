@@ -12,3 +12,11 @@ Docker Images helps to create Docker Containerts, Images are read only and are b
 <img width="1050" height="366" alt="Screenshot from 2026-02-26 23-12-15" src="https://github.com/user-attachments/assets/9f6ae34c-84d7-4206-bb50-d05f6f43a481" />
 
 <img width="1050" height="366" alt="image" src="https://github.com/user-attachments/assets/d9f18b36-fb12-4e24-9ced-e1cb87d945a9" />
+
+<img width="372" height="233" alt="Screenshot from 2026-02-27 15-56-44" src="https://github.com/user-attachments/assets/d77063b9-5931-4c95-ac62-ec57502be637" />
+
+<img width="1266" height="849" alt="Screenshot from 2026-02-27 15-56-11" src="https://github.com/user-attachments/assets/fb23ac2f-9263-4fcb-ad19-1823e5a813d2" />
+
+<img width="1030" height="702" alt="Screenshot from 2026-02-27 18-07-40" src="https://github.com/user-attachments/assets/e10144f8-3ffb-4bc9-bffd-80fd470851ce" />
+
+Running a container in detached mode will always run the container in background and we are free to use our terminal normally. In non-detached mode the container runs it in foreground. Fo eg. in nginx, if it is run in foreground immediately after the container starts, it shows all the logs. In detached mode we have to give a command called docker logs to see the logs.
